@@ -1,0 +1,6 @@
+{
+	"appId": "org.code.camera",
+	"appName": "camera",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
